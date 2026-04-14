@@ -23,7 +23,6 @@
 &sk {
     release-after-ms = <5000>;
     quick-release;
-    lazy;
 };
 
 / {
